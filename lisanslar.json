@@ -1,10 +1,10 @@
 {
-  "Musteri_Yusuf": {
-    "hwid": "HWID-BFEBFBFF000906EA-Standard",
-    "durum": "aktif"
-  },
-  "Musteri_Okan": {
-    "hwid": "HWID-123456789",
-    "durum": "pasif"
-  }
+    "Musteri_Yusuf": {
+        "hwid": "HWID-BFEBFBFF000906EA-Standard",
+        "durum": "aktif"
+    },
+    "Musteri_Okan": {
+        "hwid": "HWID-123456789",
+        "durum": "pasif"
+    }
 }
